@@ -16,7 +16,7 @@ Este é um calendário especializado para agências de mídia e marketing, que p
 - **⚡ Performance otimizada** - Renderização eficiente de eventos complexos
 
 ### Por que não usei `v-calendar` do Vuetify?
-7Primeiro que não tive tempo a fundo para ver a docs kkk a fundo, mas percebi que  `v-calendar` do Vuetify tem limitações que não atendem às necessidades de um calendário de mídia profissional:
+Primeiro que não tive tempo para ver a docs kkk a fundo, mas percebi que  `v-calendar` do Vuetify tem limitações que não atendem às necessidades de um calendário de mídia profissional:
 
 ❌ **Limitações do v-calendar:**
 - Não suporta eventos multi-dia
